@@ -1,0 +1,41 @@
+.navbar .navbar-brand{
+    font-size: 60px;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.navbar .nav-item {
+    position: relative;
+    right: -450%;
+    top: -65px;
+}
+.navbar-custom {
+    background-color: rgba(10, 10, 10, 1);
+}
+a {
+    color: white;
+}
+
+a:hover {
+    color: grey;
+}
+
+.btn {
+    font-size: 20px;
+}
+html body {
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.card_1 {
+    position: relative;
+    right: -3%;
+    top: 40px;
+    background-color: grey;
+}
+
+.btn {
+    color: lightgrey;
+    background-color: rgba(10, 10, 10, 1);
+}

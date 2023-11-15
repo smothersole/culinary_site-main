@@ -1,0 +1,40 @@
+.navbar .navbar-brand{
+    font-size: 60px;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.navbar .nav-item {
+    position: relative;
+    right: -450%;
+    top: -65px;
+}
+.navbar-custom {
+    background-color: rgba(20, 20, 20, 1);
+}
+a {
+    color: white;
+}
+
+a:hover {
+    color: grey;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+html body{
+    background-image: url(../images/Cook_and_Waiter-20big.jpg);
+}
+
+p {
+    color: white;
+    background-color: rgba(25, 25, 25, 1);
+    position: relative;
+    top: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 15px;
+}
